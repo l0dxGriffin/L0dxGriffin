@@ -87,19 +87,15 @@
 <body>
 <div class="container">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="banner" class="banner">
-
     <h1>👋 Hi there, I'm Harsh</h1>
     <p class="subtitle">🔒 Bug Hunter | 🛡️ Security Researcher | 🔴 Red Team Specialist</p>
-
     <hr>
-
     <h2>📋 About Me</h2>
     <ul>
         <li>🎓 Learning Cybersecurity & Red Team Operations</li>
         <li>🔬 Focused on Malware Analysis & Reverse Engineering</li>
         <li>💻 Passionate about security research</li>
     </ul>
-
     <h2>🛠️ Core Skills</h2>
     <table>
         <tr>
@@ -115,7 +111,6 @@
             <td>Reverse Engineering • Cryptography • Prompt Injection</td>
         </tr>
     </table>
-
     <h2>⚙️ Tools & Technologies</h2>
     <div class="tools-section">
         <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burp-suite&color=000000" alt="Burp Suite" />
@@ -126,7 +121,6 @@
         <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&color=000000" alt="Docker" />
         <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&color=000000" alt="Kali Linux" />
     </div>
-
     <hr>
 </div>
 </body>
