@@ -10,9 +10,7 @@
 <h1 align="center">Hi there 👋 I'm Harsh</h1>
 <p align="center">🔒 Bug Hunter | 🛡️ Security Researcher | 🔴 Red Team Specialist</p>
 
----
  <img src="https://github.com/user-attachments/assets/32586e7b-1434-4ff3-87bd-e10fcb849b1a"/>
----
 
 <h2>📋 About Me</h2>
 <ul>
